@@ -29,7 +29,7 @@ The general design of the Story Map template aims to mimic a story telling appro
 #### Components
 The ready-made components reflect common use cases to communicate climate change information. Particular value was set on visualising geospatial information, e.g. in the context of a city, as well as providing an attractive form to collect user feedback.
 
-> Detailed descriptions of the components and their usage will be included by November 2019
+> Detailed descriptions of the components and their usage will be included by November 2020
 
 #### Usage
 The template does not intend to provide an ‘out-of-the-box’ solution to create Story maps but rather a convenient starting point for development. It is highly adaptable to the different requirements each case study or use case will bring with. We recommend to seek the expertise of a communication designer to maximise its potential.

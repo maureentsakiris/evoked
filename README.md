@@ -2,7 +2,7 @@
 
 ## A Story Map template to communicate climate services
 
-> This template is still under development and will be made available in November 2019. Please contact us at evoked@geographie.uni-kiel.de for any inquiries. 
+> This template is still under development and will be made available in November 2020. Please contact us at evoked@geographie.uni-kiel.de for any inquiries. 
 
 ### Climate services
 Climate services offer information about climate change. Ideally, they are science-driven and inform the user and follow a co-developing and production process, in a stepwise approach. Corresponding to that, instead of communicating in a top-down direction, user and provider should communicate and collaborate through climate services, in a two-way communication process.
